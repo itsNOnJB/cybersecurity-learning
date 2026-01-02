@@ -12,7 +12,7 @@ Qual das opções a seguir representa melhor o processo em que você simula as a
 
 **resposta**: segurança ofensiva
 
-## Hackeando sua primeira máquina
+## Hackeando sua primeira máquina:
 
 **ferramenta que vou ultilizar**:
 
