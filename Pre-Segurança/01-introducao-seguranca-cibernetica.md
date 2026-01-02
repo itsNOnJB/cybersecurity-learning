@@ -10,7 +10,7 @@
 
 Qual das opções a seguir representa melhor o processo em que você simula as ações de um hacker para encontrar vulnerabilidades em um sistema?
 
-## resposta: segurança ofensiva
+**resposta**: segurança ofensiva
 
 # Hackeando sua primeira máquina
 
