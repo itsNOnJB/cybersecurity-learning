@@ -1,9 +1,8 @@
 # O que é segurança ofensiva?
 
-
-- invadir sistemas de computador
-- explorar bugs  de software
-- encontrar brechas para obter acesso não autorizado
+- simular ataques em ambientes controlados
+- explorar vulnerabilidades para fins de teste
+- identificar falhas antes que atacantes reais explorem
 
 
 # tive uma pergunta simples nessa tarefa 1:
@@ -15,7 +14,7 @@ Qual das opções a seguir representa melhor o processo em que você simula as a
 **resposta**: segurança ofensiva
 
 
-# Hackeando sua primeira máquina:
+# Hackeando sua primeira máquina (simulação):
 
 
 **ferramenta que vou ultilizar**:
@@ -60,11 +59,24 @@ Finalizando a tarefa 2 tive a resposta da questão
 - gobuster -u http://fakebank.thm -w wordlist.txt dir
 - url do site: http://fakebank.thm/bank-transfer
 
+# o que aprendi:
 
-# observação: 
+- sistemas possuem fragilidades e podem ser exploradas
+- uma varredura me revelou uma fragilidade
 
-neste modulo demos passos basicos para entender um pouco o que e cibersegurança, analisei ferramentas basicas como o terminal e o linux
-e colocando em pratica minha primeira "invasão" onde entramos em uma maquina virtual e fizemos uma transferencica em um FakeBank.
+isso me mostra como é importante manter uma plataforma segura.
+
+# impacto se isso tivesse sido real:
+
+- impacto financeiro para a empresa
+- perda de confiança com cliente
+- riscos para empresa 
+
+# mitigação: 
+
+- verificar pemissão do usuario
+- validar usuário no servidor
+- alerta de algo suspeito
 
 
 
