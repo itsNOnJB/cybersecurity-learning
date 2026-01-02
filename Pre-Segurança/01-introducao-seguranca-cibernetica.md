@@ -1,12 +1,14 @@
 # O que é segurança ofensiva?
 
+
 - invadir sistemas de computador
 - explorar bugs  de software
 - encontrar brechas para obter acesso não autorizado
 
-## tive uma pergunta simples nessa tarefa:
 
-## Qual das opções a seguir representa melhor o processo em que você simula as ações de um hacker para encontrar vulnerabilidades em um sistema?
+# tive uma pergunta simples nessa tarefa:
+
+Qual das opções a seguir representa melhor o processo em que você simula as ações de um hacker para encontrar vulnerabilidades em um sistema?
 
 ## resposta: segurança ofensiva
 
