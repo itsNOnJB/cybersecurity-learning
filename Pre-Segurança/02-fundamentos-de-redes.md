@@ -29,7 +29,8 @@
 - Ferramenta de rede
 - Determina desempenho de uma conexão
 
-<img width="601" height="277" alt="{A6E5AA71-8E81-4743-9727-1D3D0D4EE51B}" src="https://github.com/user-attachments/assets/6d03417f-840d-429b-9a10-25487519441d" /> Ping de um dispositivo privado.
+<img width="601" height="277" alt="{A6E5AA71-8E81-4743-9727-1D3D0D4EE51B}" src="https://github.com/user-attachments/assets/6d03417f-840d-429b-9a10-25487519441d" /> 
+Ping de um dispositivo privado.
 
 ## Tarefas:
 
